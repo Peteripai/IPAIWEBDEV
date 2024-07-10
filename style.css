@@ -87,3 +87,23 @@ h5{
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2)
 }
+.carde {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+}
+.carde h1 {
+    color: blue;
+    text-align: center;
+}
+.carde ul {
+    list-style-type: none;
+    padding: 0;
+}
+.carde ul li {
+    text-align: auto;
+    margin: 10px 0;
+}
