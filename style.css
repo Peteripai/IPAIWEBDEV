@@ -101,3 +101,8 @@ h5{
     text-align: auto;
     margin: 10px 0;
 }
+#typed-output {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+  }
