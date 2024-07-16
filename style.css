@@ -107,7 +107,7 @@ h5{
     color: #333;
   }
 .bordered-column {
-    border: 1px solid white; /* Change the color as needed */
+    border: 1px solid #fdfafa; /* Change the color as needed */
     padding: 8px; /* Optional: Add padding for better spacing */
     border-radius: 1px; /* Optional: Add rounded corners */
 }
