@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
       strings: ["Hi there,Welcome! Your Success starts here , we offer web development services ",],
       typeSpeed: 60,
       backSpeed: 60,
-      loop: true
+      loop: false
     });
   });
   
