@@ -106,3 +106,8 @@ h5{
     font-family: 'Courier New', Courier, monospace;
     color: #333;
   }
+.bordered-column {
+    border: 1px solid #cd1010; /* Change the color as needed */
+    padding: 8px; /* Optional: Add padding for better spacing */
+    border-radius: 1px; /* Optional: Add rounded corners */
+}
