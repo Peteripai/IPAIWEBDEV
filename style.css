@@ -107,3 +107,7 @@ h5{
     padding: 8px; /* Optional: Add padding for better spacing */
     border-radius: 1px; /* Optional: Add rounded corners */
 }
+.m-0{
+    font-size: large;
+}
+
