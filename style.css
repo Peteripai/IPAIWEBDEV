@@ -109,5 +109,18 @@ h5{
 }
 .m-0{
     font-size: large;
+    @media (max-width: 600px) {
+    .m-0 {
+        font-size: 1.5em;
+        padding: 5px;
+    }
+}
+
+@media (max-width: 400px) {
+    .m-0 {
+        font-size: 1em;
+        padding: 3px;
+    }
+}
 }
 
