@@ -47,9 +47,6 @@ h5{
 .ai-section p {
     font-size: 1.2em;
 }
-.robot-icons {
-    margin-top: 20px;
-}
 
 .ai-section{
     text-align: center;
@@ -100,6 +97,7 @@ h5{
 #typed-output {
     font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     color: blue;
   }
 .bordered-column {
