@@ -107,6 +107,22 @@ h5{
 }
 .m-0{
     font-size: large;
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 14px;
+}
+.contact-info div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.contact-info i {
+    font-size: 16px;
+}
+    
     @media (max-width: 600px) {
     .m-0 {
         font-size: 1.5em;
