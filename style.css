@@ -101,7 +101,7 @@ h5{
     font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    color: blue;
+    color: black;
   }
 .bordered-column {
     border: 1px solid #fdfafa; /* Change the color as needed */
